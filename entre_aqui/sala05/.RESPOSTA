@@ -1,0 +1,14 @@
+### RESPOSTA ###
+1. mv animais/elefante geladeira
+
+2. mv geladeira/elefante .
+   mv animais/girafa geladeira
+
+3. mv elefante festa
+   mv animais/* festa
+
+4. cd aviao
+   touch tijolo500
+
+
+### Mais informações ###

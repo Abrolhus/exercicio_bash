@@ -1,0 +1,17 @@
+### RESPOSTA ###
+
+ls -a
+cat .oi .tudo .bem .RESPOSTA
+
+
+
+
+
+### Mais informações ###
+-- rm vem de "ReMove", remover
+-- rm aceita algumas flags (opções):
+---- `rm -r` remove de forma recursiva, ou seja, remove algo (uma pasta) e todo o seu conteudo
+---- `rm -f` força a remoção de algo. alguns arquivos são protegidos e requerem essa flag
+---- portanto, `rm -rf` força a remoção de algo RECURSIVAMENTE. algumas PASTAS arquivos são protegidas e requerem essa flag
+
+---- exemplo: `rm -r entre_aqui`

@@ -1,0 +1,17 @@
+### RESPOSTA ###
+basta começar a digitar o nome do arquivo e apertar tab depois
+---> rm zz<TAB>
+
+
+
+
+
+
+
+### Mais informações ###
+tab autocompleta caso haja apenas UMA opção viavel.
+aperte tab 2x seguidas para mostrar todas as opções possíveis.
+
+você pode testar isso numa pasta com 2 arquivos com nomes parecidos (teste1, teste2, por exemplo).
+escreva cat test<TAB>
+depois aperte <TAB><TAB>

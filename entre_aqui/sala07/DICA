@@ -1,0 +1,7 @@
+### DICA ###
+ls -a  --> lista TODOS (all) os arquivos (incluindo os ocultos)
+
+
+### Mais informações ###
+ls -l  --> lista os arquivos em forma de lista detalhada
+ls -la --> como pode imaginar, lista TODOS os arquivos em forma de lista detalhada.

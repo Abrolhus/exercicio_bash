@@ -1,0 +1,11 @@
+entre na pasta "entre_aqui" para começar sua jornada
+
+
+
+### Mais informações ###
+toda etapa (pasta) tem:
+-- Um LEIA_ME com as intruções do que tem que ser feito
+-- uma DICA com uma pista de como resolver
+-- um arquivo *oculto* .RESPOSTA
+    -- Para ver a resposta basta dar um `cat .RESPOSTA` Lembra do ponto (.) antes de resposta
+    -- para listar arquivos ocultos numa pasta basta dar um `ls -a`

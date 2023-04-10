@@ -1,0 +1,8 @@
+### DICA ###
+o comando mkdir cria pastas
+o comando cp copia coisas. Para copiar pastas é necessario a flag -r
+
+### Mais informações ###
+"cp --help" ajuda. Na verdade, para qualquer comando a flag --help ajuda bastante.
+
+"man cp" também pode ajudar

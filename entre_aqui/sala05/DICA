@@ -1,0 +1,10 @@
+### DICA ###
+mv é o comando usado no linux para mover coisas
+
+touch é o comando usado no linux para criar arquivos.
+
+### Mais informações ###
+mv vem de MoVe
+mv também é usado para Renomear coisas. Faz sentido, não faz?
+
+Na verdade o comando touch "encosta" em um arquivo, ou seja, altera a data de alteração dele para aquele momento.

@@ -1,0 +1,18 @@
+### RESPOSTA ###
+basta dar `cd` para a pasta `entre_aqui`
+
+---> cd entre_aqui
+
+
+
+
+
+
+
+### Mais informações ###
+-- cd vem de "Change Directory", "mudar diretorio"
+-- executar o comando `cd` sem nenhum argumento volta para a pasta home (~).
+-- `cd -` volta para a ultima pasta que voce estava.
+-- `cd .` não faz nada.
+
+

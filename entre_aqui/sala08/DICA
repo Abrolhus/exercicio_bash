@@ -1,0 +1,17 @@
+### DICA ###
+`chmod +x arquivo` faz com que o usuario (você) tenha permissão para executar o `arquivo`
+
+para executar um arquivo basta dar um `./arquivo`. Ou seja, você está executando o programa que está nesse caminho (local), na pasta atual com o nome "arquivo"
+
+para CANCELAR um processo no bash, basta dar um ctrl+c (também chamado de ^C).
+
+### Mais informações ###
+"." representa o endereço completo da pasta atual.
+"." é o mesmo que "/home/abrolhus/exercicio/entre_aqui/sala01/sala08" (claro que no seu caso vai ser um pouco diferente)
+
+
+
+### ainda mais informações ###
+/bin/ls é o caminho completo do comando ls. Se você manda o comando "ls" no terminal, é o mesmo (um atalho) para "/bin/ls".
+
+tente usar o comando which para ver onde estão os comandos. Exemplo: "which ls"

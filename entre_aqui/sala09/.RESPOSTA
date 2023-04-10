@@ -1,0 +1,13 @@
+### RESPOSTA ###
+
+rm -r armario
+
+cd ..
+mkdir sala02
+cp -r sala05/geladeira sala02
+
+
+
+
+
+### Mais informações ###
