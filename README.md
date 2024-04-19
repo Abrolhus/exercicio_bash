@@ -1,6 +1,11 @@
 # exercicio_bash
 Acredito que esse exercicio englobe a maior parte dos comandos usados frequentemente no terminal linux.
 
-para começar clone o repositorio e 
+### para começar:
+1. clone o repositorio:
+   `git clone https://github.com/Abrolhus/exercicio_bash digite_ls`
 
-    cat LEIA_ME
+1. entre na pasta do repositorio digite_ls:
+   `cd digite_ls`
+1. digite ls:
+   `ls`
